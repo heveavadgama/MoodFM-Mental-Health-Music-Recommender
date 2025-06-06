@@ -7,7 +7,7 @@
 
 ## 🔗 Live App
 
-👉 [Click here to try MoodFM on Streamlit]([https://moodfm-mental-health-music-recommender-ln6ijrp96rssnfogsp4mix.streamlit.app/])
+👉 [Click here to try MoodFM on Streamlit](https://moodfm-mental-health-music-recommender-ln6ijrp96rssnfogsp4mix.streamlit.app/)
 
 ---
 
